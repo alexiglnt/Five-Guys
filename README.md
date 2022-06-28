@@ -5,7 +5,6 @@ Parmi les 5 personnages disponibles, vous devez parcourir le donjon afin d'en tr
 
 
 Controles : 
-
 - Z Q S D : Touches directionnelles
 - E : Interagir
 - CLIQUE GAUCHE : Tir
@@ -14,11 +13,14 @@ Controles :
 - ECHAP : Pause
 
 
+Eléments du jeu : 
 - Génération aléatoire de chaque niveau
 - Cinématiques d'entrée de boss, de mort et de fin de jeu
-- Inventaire avec statistiques et possibilité de jeter les objets
+- Systeme d'inventaire avec statistiques et possibilité de jeter les objets
 - Le choix du personnage
 - Les boss qui ont des difficultés différentes avec des mechaniques différentes
+- Coffre offrant des objets (armes, vie, armure, etc..) en piochant aléatoirement dans les prefabs du jeu
+- Minimap
 
 
 
