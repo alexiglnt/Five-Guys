@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57a70b2cc79c3b14cb668e5449c2b611, type: 3}
+  m_Name: pizza
+  m_EditorClassIdentifier: 
+  isDefaultItem: 0
+  name: 
+  description: 
+  artwork: {fileID: -857094625025442671, guid: 728ef882f625226408b1aacbed7d4390, type: 3}
+  rank: 1
+  prefab: {fileID: 7724273898388942917, guid: bb58ee981c13fa14db3872e9db4ac526, type: 3}
+  attack: 10
+  defense: 10
+  speed: 1
+  health: 15
+  luck: 0

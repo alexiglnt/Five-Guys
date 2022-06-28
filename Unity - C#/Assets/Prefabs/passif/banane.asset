@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57a70b2cc79c3b14cb668e5449c2b611, type: 3}
+  m_Name: banane
+  m_EditorClassIdentifier: 
+  isDefaultItem: 0
+  name: banane
+  description: une banane bien mure
+  artwork: {fileID: -4160011772907701409, guid: 728ef882f625226408b1aacbed7d4390,
+    type: 3}
+  rank: 1
+  prefab: {fileID: 7724273898388942917, guid: ea2e166c6f6f7c644bfb8e062fd33340, type: 3}
+  Player: {fileID: 5628018141983903104, guid: ef67ba864d1ecc042b5f4cf48455c0a6, type: 3}
+  attack: 12
+  defense: 1
+  speed: 0
+  health: 2
+  luck: 0

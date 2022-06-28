@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 1e5b21a20fda1414882278256d2fa2bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -739527674661542846
+    second: witcher_walking_0
+  - first:
+      213: 4629525273007249028
+    second: witcher_walking_1
+  - first:
+      213: -1766937692127984556
+    second: witcher_walking_2
+  - first:
+      213: 7581638640606621485
+    second: witcher_walking_3
+  - first:
+      213: 5408170471693779606
+    second: witcher_walking_4
+  - first:
+      213: -3488393280021060126
+    second: witcher_walking_5
+  - first:
+      213: -7587121767952862750
+    second: witcher_walking_6
+  - first:
+      213: 8938258898681933885
+    second: witcher_walking_7
+  - first:
+      213: 3318276330389836797
+    second: witcher_walking_8
+  - first:
+      213: -5839040183274481434
+    second: witcher_walking_9
+  - first:
+      213: -1878097123735804621
+    second: witcher_walking_10
+  - first:
+      213: 7384677300421505258
+    second: witcher_walking_11
+  - first:
+      213: 884087905826834502
+    second: witcher_walking_12
+  - first:
+      213: 5807250170885528462
+    second: witcher_walking_13
+  - first:
+      213: -2397857481135795231
+    second: witcher_walking_14
+  - first:
+      213: 4846548170227375220
+    second: witcher_walking_15
+  - first:
+      213: -8208542007920949469
+    second: witcher_walking_16
+  - first:
+      213: -61171965291768410
+    second: witcher_walking_17
+  - first:
+      213: 9165058745756876567
+    second: witcher_walking_18
+  - first:
+      213: 371145202704342790
+    second: witcher_walking_19
+  - first:
+      213: 4523168360453240913
+    second: witcher_walking_20
+  - first:
+      213: 8785655031296175957
+    second: witcher_walking_21
+  - first:
+      213: -2345014666351849079
+    second: witcher_walking_22
+  - first:
+      213: 2614557511856344194
+    second: witcher_walking_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: witcher_walking_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 582
+        width: 93
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2446a328f7bacb5f0800000000000000
+      internalID: -739527674661542846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 569
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4865a4025b06f3040800000000000000
+      internalID: 4629525273007249028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 562
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548678d7839a77e0800000000000000
+      internalID: -1766937692127984556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 582
+        width: 94
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fabb4ac24673960800000000000000
+      internalID: 7581638640606621485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 569
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692801ae36ead0b40800000000000000
+      internalID: 5408170471693779606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 562
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e52c7b4bccb69fc0800000000000000
+      internalID: -3488393280021060126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 388
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1398943f025b690800000000000000
+      internalID: -7587121767952862750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 388
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3039668c131b0c70800000000000000
+      internalID: 8938258898681933885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 382
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df31973ddb2ec0e20800000000000000
+      internalID: 3318276330389836797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 395
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e851bec3ef87fea0800000000000000
+      internalID: -5839040183274481434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 382
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3356b06dd98afe5e0800000000000000
+      internalID: -1878097123735804621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 382
+        width: 94
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0b38801e4ab7660800000000000000
+      internalID: 7384677300421505258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 215
+        width: 93
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64807092449e44c00800000000000000
+      internalID: 884087905826834502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 202
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5575234f779050800000000000000
+      internalID: 5807250170885528462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 202
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e353e6435919bed0800000000000000
+      internalID: -2397857481135795231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 215
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cd839f1e5624340800000000000000
+      internalID: 4846548170227375220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 208
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270006d886651e80800000000000000
+      internalID: -8208542007920949469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 202
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55292fb6ca62ff0800000000000000
+      internalID: -61171965291768410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ffc66ee54d03f70800000000000000
+      internalID: 9165058745756876567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 21
+        width: 94
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f584f6892962500800000000000000
+      internalID: 371145202704342790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 21
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158f918b8a585ce30800000000000000
+      internalID: 4523168360453240913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_21
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 35
+        width: 93
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f288bd3baece970800000000000000
+      internalID: 8785655031296175957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 28
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981540bd595d47fd0800000000000000
+      internalID: -2345014666351849079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witcher_walking_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 21
+        width: 87
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cc60b5436c84420800000000000000
+      internalID: 2614557511856344194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d7dd0889115c55b49bbcb8df0434facb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

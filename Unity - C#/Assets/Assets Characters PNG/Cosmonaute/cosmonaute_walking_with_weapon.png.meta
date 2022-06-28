@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: fd7d3d30256b6ae43b408027de0e2ce5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8773551204838494583
+    second: cosmonaute_walking_with_weapon_0
+  - first:
+      213: -458284413827896241
+    second: cosmonaute_walking_with_weapon_1
+  - first:
+      213: 127036624284572261
+    second: cosmonaute_walking_with_weapon_2
+  - first:
+      213: -2332573595876183494
+    second: cosmonaute_walking_with_weapon_3
+  - first:
+      213: 7262668550672286850
+    second: cosmonaute_walking_with_weapon_4
+  - first:
+      213: 7079171402363437353
+    second: cosmonaute_walking_with_weapon_5
+  - first:
+      213: -3373624836598138061
+    second: cosmonaute_walking_with_weapon_6
+  - first:
+      213: 6847909610207612036
+    second: cosmonaute_walking_with_weapon_7
+  - first:
+      213: -8260673002613480747
+    second: cosmonaute_walking_with_weapon_8
+  - first:
+      213: 3810512810591086165
+    second: cosmonaute_walking_with_weapon_9
+  - first:
+      213: 6852745649889969132
+    second: cosmonaute_walking_with_weapon_10
+  - first:
+      213: 2296720506462802419
+    second: cosmonaute_walking_with_weapon_11
+  - first:
+      213: -6140083630829853646
+    second: cosmonaute_walking_with_weapon_12
+  - first:
+      213: -5904566920032606090
+    second: cosmonaute_walking_with_weapon_13
+  - first:
+      213: 3820767815529265314
+    second: cosmonaute_walking_with_weapon_14
+  - first:
+      213: 1357961770142740866
+    second: cosmonaute_walking_with_weapon_15
+  - first:
+      213: -5018153008555732962
+    second: cosmonaute_walking_with_weapon_16
+  - first:
+      213: -7367409278571221561
+    second: cosmonaute_walking_with_weapon_17
+  - first:
+      213: -9054741514190617098
+    second: cosmonaute_walking_with_weapon_18
+  - first:
+      213: 528951255928245525
+    second: cosmonaute_walking_with_weapon_19
+  - first:
+      213: -3489738355117801115
+    second: cosmonaute_walking_with_weapon_20
+  - first:
+      213: 209890533775725969
+    second: cosmonaute_walking_with_weapon_21
+  - first:
+      213: -4638853805397880715
+    second: cosmonaute_walking_with_weapon_22
+  - first:
+      213: -1608027969992767940
+    second: cosmonaute_walking_with_weapon_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 699
+        width: 113
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea6e8d9a51e3680800000000000000
+      internalID: -8773551204838494583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 692
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca0b3f0c8d3a9f0800000000000000
+      internalID: -458284413827896241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 677
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a52fff22353c100800000000000000
+      internalID: 127036624284572261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 699
+        width: 112
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32385d4ca801afd0800000000000000
+      internalID: -2332573595876183494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 692
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284093c419e2ac460800000000000000
+      internalID: 7262668550672286850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 677
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9210af522e44e3260800000000000000
+      internalID: 7079171402363437353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 459
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bf129d51a7e21d0800000000000000
+      internalID: -3373624836598138061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 474
+        width: 120
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c886a3289a80f50800000000000000
+      internalID: 6847909610207612036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 466
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d26099cba13c5d80800000000000000
+      internalID: -8260673002613480747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 459
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5566b575639a1e430800000000000000
+      internalID: 3810512810591086165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_10
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 481
+        width: 113
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce38bc57cd7d91f50800000000000000
+      internalID: 6852745649889969132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 466
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f11210d1279fdf10800000000000000
+      internalID: 2296720506462802419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 271
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2342235287a0acaa0800000000000000
+      internalID: -6140083630829853646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 241
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6782fe28ba3ce0ea0800000000000000
+      internalID: -5904566920032606090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 256
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8fdddb518160530800000000000000
+      internalID: 3820767815529265314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 271
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813beff80378d210800000000000000
+      internalID: 1357961770142740866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_16
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 256
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e105a701d60fb5ab0800000000000000
+      internalID: -5018153008555732962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_17
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 241
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd68db9b44b1c990800000000000000
+      internalID: -7367409278571221561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 16
+        width: 113
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f58fa12198175280800000000000000
+      internalID: -9054741514190617098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 46
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d89116d56375700800000000000000
+      internalID: 528951255928245525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 31
+        width: 113
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561c5289475f19fc0800000000000000
+      internalID: -3489738355117801115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 16
+        width: 112
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1955b63145ea9e200800000000000000
+      internalID: 209890533775725969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_22
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 38
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5705a4caa0b7f9fb0800000000000000
+      internalID: -4638853805397880715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_walking_with_weapon_23
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 23
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3640bbb4132fa9e0800000000000000
+      internalID: -1608027969992767940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 29abdb31c3c5f8a4f9dabb54dd6b7305
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

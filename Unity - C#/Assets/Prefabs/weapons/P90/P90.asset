@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 230dcc99e1b4a2846ab19fec4bbe1b07, type: 3}
+  m_Name: P90
+  m_EditorClassIdentifier: 
+  isDefaultItem: 0
+  name: SNIPER
+  description: 'une arme '
+  artwork: {fileID: -2082020543259385417, guid: 038f63aee0223b14f8e639bae469df8e, type: 3}
+  rank: 2
+  prefab: {fileID: 6264260999561072463, guid: fb18fc9f54990ac4d99cd06fec851f2e, type: 3}
+  damage: 20
+  magazine_size: 50
+  reload_time: 2
+  Max_mun: 500
+  bullet_speed: 50
+  bullet_life_time: 1.5
+  fire_rate: 0.1

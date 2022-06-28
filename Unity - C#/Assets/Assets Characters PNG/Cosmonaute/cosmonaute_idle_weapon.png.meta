@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 8f677d3d3099a424b9c42b4ff97e29b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7503659132969342339
+    second: cosmonaute_idle_weapon_0
+  - first:
+      213: -7894479133250768615
+    second: cosmonaute_idle_weapon_1
+  - first:
+      213: 1969219513896140839
+    second: cosmonaute_idle_weapon_2
+  - first:
+      213: -7023528064054660131
+    second: cosmonaute_idle_weapon_3
+  - first:
+      213: 6521729287216023452
+    second: cosmonaute_idle_weapon_4
+  - first:
+      213: -171914011311847461
+    second: cosmonaute_idle_weapon_5
+  - first:
+      213: -2022338901094844337
+    second: cosmonaute_idle_weapon_6
+  - first:
+      213: -6235808374354933930
+    second: cosmonaute_idle_weapon_7
+  - first:
+      213: 7370530381197526988
+    second: cosmonaute_idle_weapon_8
+  - first:
+      213: -7097928606151774317
+    second: cosmonaute_idle_weapon_9
+  - first:
+      213: 7825178105257235647
+    second: cosmonaute_idle_weapon_10
+  - first:
+      213: 4308389052294813079
+    second: cosmonaute_idle_weapon_11
+  - first:
+      213: 3391575418776199790
+    second: cosmonaute_idle_weapon_12
+  - first:
+      213: 5552493659827320731
+    second: cosmonaute_idle_weapon_13
+  - first:
+      213: 2997133919298508806
+    second: cosmonaute_idle_weapon_14
+  - first:
+      213: -5368801829088198883
+    second: cosmonaute_idle_weapon_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 657
+        width: 113
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d040b93a522860800000000000000
+      internalID: 7503659132969342339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 657
+        width: 113
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911bad71e0d217290800000000000000
+      internalID: -7894479133250768615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 657
+        width: 113
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7200c8ae6b2145b10800000000000000
+      internalID: 1969219513896140839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 657
+        width: 112
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3f800207a678e90800000000000000
+      internalID: -7023528064054660131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 446
+        width: 113
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c5cdab36d18a50800000000000000
+      internalID: 6521729287216023452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 446
+        width: 113
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd748d71e1d3d9df0800000000000000
+      internalID: -171914011311847461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 446
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48b9c8fb753fe3e0800000000000000
+      internalID: -2022338901094844337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 446
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6570b2f7255f579a0800000000000000
+      internalID: -6235808374354933930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 236
+        width: 113
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c089b452694660800000000000000
+      internalID: 7370530381197526988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 236
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f6d350a871f7d90800000000000000
+      internalID: -7097928606151774317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 236
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49504f60e989c60800000000000000
+      internalID: 7825178105257235647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 236
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795d63824097acb30800000000000000
+      internalID: 4308389052294813079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 25
+        width: 113
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622a11cfdb411f20800000000000000
+      internalID: 3391575418776199790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 25
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97bd93b09b6e0d40800000000000000
+      internalID: 5552493659827320731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 25
+        width: 113
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608df0c8b65f79920800000000000000
+      internalID: 2997133919298508806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cosmonaute_idle_weapon_15
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 25
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ffabb7e2f2e75b0800000000000000
+      internalID: -5368801829088198883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45e9d4e36c8307c44bb9792614767a53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

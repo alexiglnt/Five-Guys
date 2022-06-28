@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57a70b2cc79c3b14cb668e5449c2b611, type: 3}
+  m_Name: key
+  m_EditorClassIdentifier: 
+  isDefaultItem: 0
+  name: Skeleton Key
+  description: 'une cle qui ouvre la porte d''une creature squeletique '
+  artwork: {fileID: 8942228829395416437, guid: 728ef882f625226408b1aacbed7d4390, type: 3}
+  rank: 1
+  prefab: {fileID: 7724273898388942917, guid: a2f75d1e086ad9b4f8411d337011f8f5, type: 3}
+  Player: {fileID: 5628018141983903104, guid: ef67ba864d1ecc042b5f4cf48455c0a6, type: 3}
+  attack: 0
+  defense: 0
+  speed: 1
+  health: 0
+  luck: 10
